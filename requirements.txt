@@ -11,3 +11,4 @@ sentence-transformers>=3.0.0
 ddgs>=1.0.0
 pypdf>=4.2.0
 openai-whisper>=20231117
+protobuf==4.25.3
